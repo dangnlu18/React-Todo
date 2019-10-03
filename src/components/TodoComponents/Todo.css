@@ -1,0 +1,4 @@
+.completed p{
+	color: red;
+	text-decoration: line-through;
+}
